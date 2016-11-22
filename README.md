@@ -21,7 +21,7 @@ The coding challenge will be judged on
 
 1. Attention to detail
 2. Architectural choices
-3. Knowledge of Android libraries and SDK's 
+3. Knowledge of Android libraries and SDKs 
 
 An adequate solution might be developed within 4 - 8 hours, so please don't spend more than that on it. 
 
