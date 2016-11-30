@@ -12,6 +12,7 @@ To summarize
 2. Make a detail screen so the user can drill down into a result
 3. The detail screen should allow the user to favorite the event
 4. Type ahead results should contain an indication if they had been favorited previously
+5. Favorited results should be saved between launches of the app 
 
 The two screens can look similar to these:
 
