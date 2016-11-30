@@ -23,7 +23,7 @@ The coding challenge will be judged on
 2. Architectural choices
 3. Knowledge of Android libraries and SDKs 
 
-An adequate solution might be developed within 4 - 8 hours, so please don't spend more than that on it. 
+An adequate solution might be developed within 4 - 8 hours, but please spend however much time it takes to construct a great solution. 
 
 #### API Information 
 
