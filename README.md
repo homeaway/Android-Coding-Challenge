@@ -28,7 +28,7 @@ An adequate solution might be developed within 4 - 8 hours, but please spend how
 
 #### API Information 
 
-The endpoint to use on Seat Geek is a pulbic endpoint. You will pass in the url param of `q` which will correspond to the search query. For example, the below query will give a result set for the term `Texas Ranger`. 
+The endpoint to use on Seat Geek is a public endpoint. You will pass in the url param of `q` which will correspond to the search query. For example, the below query will give a result set for the term `Texas Ranger`. 
 
 ```
 https://api.seatgeek.com/2/events?q=Texas+Ranger
