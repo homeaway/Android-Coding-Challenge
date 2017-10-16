@@ -16,6 +16,7 @@ To summarize
 
 The two screens can look similar to these:
 
+![Potential Designs](https://www.dropbox.com/s/cawoomra4otkzt2/screen_shot_2016-07-15_at_9.44.28_am.png?dl=0)
 
 The coding challenge will be judged on
 
