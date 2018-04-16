@@ -30,13 +30,13 @@ Feel free to use any libraries you feel are appropriate solutions to your techni
 You will need to sign up for a free [Foursquare](https://developer.foursquare.com/places-api) account and get an API key to use it. Foursquare has a generous free tier, and the documentation describes integration as well as sample usage. A query to the Foursquare Places API could look something like:
 
 ```
-	curl -X GET -G 'https://api.foursquare.com/v2/venues/search' \
-        -d client_id="CLIENT_ID"  \
-        -d client_secret="CLIENT_SECRET" \
-        -d near="Seattle,+WA" \
-        -d query="coffee" \
-        -d v="20180401" \
-        -d limit=20
+curl -X GET -G 'https://api.foursquare.com/v2/venues/search' \
+    -d client_id="CLIENT_ID"  \
+    -d client_secret="CLIENT_SECRET" \
+    -d near="Seattle,+WA" \
+    -d query="coffee" \
+    -d v="20180401" \
+    -d limit=20
 ```
 
 To display a map, you may use any solution you prefer. We suggest, for convenience, the [Google Static Map API](https://developers.google.com/maps/documentation/static-maps/) for the details screen and the [Google Maps Android API](https://developers.google.com/maps/android/) for the fullscreen map. Both have acceptable free tier limits and are well-documented.
