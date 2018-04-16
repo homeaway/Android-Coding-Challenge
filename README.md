@@ -47,13 +47,13 @@ For quick and easy icons, consider using the [Material icons](https://material.i
 
 We’re upping our game here at HomeAway, and we aim to create world-class app experiences for our customers. Among other criteria, your submission will be evaluated on:
 
-Implementation of the stated requirements
-Application Architecture
-The general quality of the code and it’s resistance to crashing
-Your use of Android coding conventions
-Knowledge and usage of Android libraries and sdk’s
-Clarity of communications in comments and other documentation
-UI and UX -- while we don’t want you to spend any time creating custom icons or other assets, the app should look clean and generally obey the Human Interface Guidelines
+1. Implementation of the stated requirements
+2. Application Architecture
+3. The general quality of the code and it’s resistance to crashing
+4. Your use of Android coding conventions
+5. Knowledge and usage of Android libraries and sdk’s
+6. Clarity of communications in comments and other documentation
+7. UI and UX -- while we don’t want you to spend any time creating custom icons or other assets, the app should look clean and generally obey the Human Interface Guidelines
 
 Oh, and don’t worry if your app has personality or a sense of humor. We want you to have fun!
 
