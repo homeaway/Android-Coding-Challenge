@@ -21,7 +21,7 @@ On the main screen, when search results are visible, the screen should include a
 5. Favorite selections should be changeable, should persist across launches of the app, and should show correctly on both the main and details screens.
 6. The user should be able to navigate between screens according to Android platform conventions.
 7. Include instructions for building the application and any relevant documentation in a README.md file
-8. Please post your submission on github, or tar and zip the project directory for email or hosting on a file sharing service.
+8. Please post your submission on Github, Bitbucket or Gitlab.
 
 Feel free to use any libraries you feel are appropriate solutions to your technical needs.
 
@@ -54,6 +54,7 @@ We’re upping our game here at HomeAway, and we aim to create world-class app e
 5. Knowledge and usage of Android libraries and sdk’s
 6. Clarity of communications in comments and other documentation
 7. UI and UX -- while we don’t want you to spend any time creating custom icons or other assets, the app should look clean and generally obey the Human Interface Guidelines
+8. Coding challenge reviewers should be able to load your project into Android Studio and build an instance of your app into an emulator. If the reviewer needs to do any project configuration (i.e. add his/her own Foursquare API or Google Maps API keys) that is enough reason to reject your application.
 
 Oh, and don’t worry if your app has personality or a sense of humor. We want you to have fun!
 
