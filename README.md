@@ -21,9 +21,9 @@ The first screen should display an input field that allows users to search for p
 
 ### Optional requirements
 
-Following requirements are optional - feel free to implement these if you like. These are not mandatory though.
+The following functionality is optional and you should feel free to implement any/all of these as time permits.
 
-Mission here is to show search results in a map view and allow user to favorite a place.
+Your mission here is to show search results in a map view and to allow the user to favorite places.
 
 1. When a search returns results, the main screen should include a [Floating Action Button](https://developer.android.com/reference/android/support/design/widget/FloatingActionButton.html). Clicking the Floating Action Button should launch a full-screen map with a pin for every search result. Clicking a pin should show the name of the place on the map, and clicking on the name should then open the details screen for the given place.
 2. In search results, each list item should also indicate whether the place has been favorited by the user. User should be able to favorite the place from details screen.
