@@ -2,7 +2,7 @@
 
 HomeAway takes great care in how we select members of our engineering team. This technical challenge will help us get an idea of how you would use software to solve problems for our end users.
 
-We know that your time is important, so we’ve designed the challenge with that in mind. An acceptable solution might take between 2-4 hours depending on how familiar you are with Android development. Nevertheless, please feel free to spend as much time as you’d like crafting your preferred solution. We hope you have fun building it!
+We know that your time is important, so we’ve designed the challenge with that in mind. There's no specific amount of time that this challenge should take you to complete, as the level of effort will depend on how familiar you are with Android development and whether or not you tackle the optional functionality. Please feel free to spend as much time as you’d like crafting your preferred solution and we hope you have fun building it!
 
 ### Mission: Seattle Place Search!
 
